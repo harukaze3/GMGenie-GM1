@@ -94,8 +94,6 @@
                     </OnClick>
                 </Scripts>
             </Button>
-
-
             <Button name="$parent_Tickets" inherits="GMGenie_Button" text="Tickets">
                 <Size>
                     <AbsDimension x="90" y="18"/>
