@@ -7,6 +7,7 @@ Changelog
       * IP, Email, Last Login, /played, gold, phase, location, macros and advanced tools
     - Builder button from the miniHUD
       * still accessible via /builder
+    - Close button
 
 ### Version 0.9.1
 *   Added back the Auto-Response
