@@ -11,6 +11,7 @@ function GMGenie.Hud.onLoad()
     GMGenie_Hud:RegisterEvent("PLAYER_ENTERING_WORLD");
     GMGenie_Hud:RegisterEvent("UI_ERROR_MESSAGE");
     GMGenie_Hud:SetScript("OnEvent", GMGenie.Hud.readNotice);
+
     GMGenie_Hud_GM:SetAttribute("macrotext1", "/run GMGenie.Hud.toggleGm();");
     GMGenie_Hud_Chat:SetAttribute("macrotext1", "/run GMGenie.Hud.toggleChat();");
     GMGenie_Hud_Visibility:SetAttribute("macrotext1", "/run GMGenie.Hud.toggleVisibility();");
