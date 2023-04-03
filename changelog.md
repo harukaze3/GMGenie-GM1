@@ -1,6 +1,7 @@
 Changelog
 -------
 ### Version 0.9.1.gm1
+*   Branched out GMGenie for GM1 and GM2
 *   Removed some inaccessible features for GM1
     - Spy window
       * IP, Email, Last Login, /played, gold, phase, location, macros and advanced tools
